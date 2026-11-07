@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# VSCode本地配置
+.vscode/
+
+# Jupyter Notebook缓存
+.ipynb_checkpoints/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+
+# 临时文件、日志
+*.log
+*.tmp
